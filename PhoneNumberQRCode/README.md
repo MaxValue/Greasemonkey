@@ -15,3 +15,5 @@ the page.
 * In this firefox addon, have an option to replace the click action or add to
 the context menu.
 * In this firefox addon, have an option to define the size of the code
+* Select text in page, addon checks if it is a telephone number and on
+right click proposes to generate a QR-Code
